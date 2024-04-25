@@ -1,0 +1,19 @@
+# 编译和构建产生的文件
+build/
+bin/
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+_deps/
+.idea/
+
+# CMake 生成的文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
